@@ -10,7 +10,7 @@ Extract, Transform and Load data using PHP.
 ## Installation
 In your application's folder, run:
 ```
-composer require jdikasa/php-etl
+composer require jdikasa/etl
 ```
 
 ## Documentation
