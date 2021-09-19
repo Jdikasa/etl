@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "softcreatr/jsonpath": "^0.7.2"
+    },
     "autoload": {
         "psr-4": {
             "Jdikasa\\Etl\\": "src/"
