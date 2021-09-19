@@ -1,0 +1,19 @@
+{
+    "name": "jdikasa/etl",
+    "description": "Extract, Transform and Load data using PHP.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean-Louis Dikasa",
+            "email": "jl.dikasa@itgroup-drc.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jdikasa\\Etl\\": "src/"
+        }
+    }
+}
